@@ -1,0 +1,12 @@
+body {
+		background-color: grey ;
+		max-width: 500px;
+		margin: auto;		
+}
+p.first {
+	text-align: center;
+	border-style: solid;
+	border-color: rgb(208,208,208);
+	padding: 15px;
+}
+
